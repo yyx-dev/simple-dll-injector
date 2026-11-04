@@ -1,0 +1,7 @@
+{
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildDirectory": "${workspaceFolder}/builds/${buildKit}/${buildType}",
+    "clangd.arguments": [
+        "--compile-commands-dir=${command:cmake.buildDirectory}"
+    ]
+}
