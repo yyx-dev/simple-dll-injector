@@ -2,7 +2,9 @@
 
 一个基于Qt 6.11 + CMake开发的简易DLL注入器，支持Windows系统。目前有待完善。
 
-![](./res/sample.png)
+<div align="center">
+    <img src="./res/sample.png" alt="sample" width="68%">
+</div>
 
 ## 功能特点
 
